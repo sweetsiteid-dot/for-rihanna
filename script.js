@@ -356,39 +356,45 @@ const letterText = `Dear Sayangg,
 
 Happy National Girlfriend Day ❤️
 
-Thank you for coming into my life.
+Thank you for coming into my life
+and making every ordinary day
+feel a little more beautiful.
 
-Thank you for staying beside me.
+Thank you for always being here,
+for understanding me,
+and for loving me in your own way.
 
-Maybe I'm not perfect.
+I know I'm not a perfect person.
 
-Maybe I still make mistakes.
+I still have many flaws,
+and I still make mistakes.
 
-But one thing will never change...
+But if there's one thing
+I'll always be sure of...
 
-I will always choose you.
+It's choosing you,
+again and again.
 
-Every smile,
-every laugh,
-and every little moment with you
-became one of my favorite memories.
+Every smile you give,
+every laugh we share,
+and every little memory we make
+becomes something I'll always treasure.
 
 I hope today reminds you
-how special you are.
+how deeply you're loved.
 
-Not only today.
+Not just today,
+but every single day.
 
-But every single day.
-
-Thank you for being my home,
-my happiness,
-and my favorite person.
+Thank you for being my safe place,
+my biggest happiness,
+and the best part of my life.
 
 I Lay My Love On You.
 
 Forever Yours,
 
-Akbar ❤️`;
+Mathias Bamford ❤️`;
 
 /* ===================================================
    TYPEWRITER
